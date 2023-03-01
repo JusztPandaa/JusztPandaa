@@ -17,6 +17,9 @@ Java:
 - 🤝 [Waterdog](https://docs.waterdog.dev)
 - 🤝 [WaterdogPE](https://docs.waterdog.dev)
 
+Linux Stuffs:
+- ⌨️ [Pterodactyl Panel](https://pterodactyl.io)
+
 Projects I currently work on:
 - 🕹️ [Pixelated Studios](https://www.pixelatedstudios.xyz)
 - 🌋 [Skypixel Minigames](https://skypixelmc.xyz)
