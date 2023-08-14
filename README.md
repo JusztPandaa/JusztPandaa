@@ -16,6 +16,7 @@ JavaScript:
 Java:
 - 🤝 [Waterdog](https://docs.waterdog.dev)
 - 🤝 [WaterdogPE](https://docs.waterdog.dev)
+- 🤝 [Spigot/Bukkit/Java](https://www.spigotmc.org)
 
 Linux Stuffs:
 - ⌨️ [Pterodactyl Panel](https://pterodactyl.io)
