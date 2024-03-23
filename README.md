@@ -1,46 +1,27 @@
-### Hello 👋
-
-> Hi, I'm Pandaa or JusztPandaa. I'm mainly a PHP developer. I like working on cool and amazing projects for fun and seeing others have fun interests me to keep going and keeps me motivated.
-
-- ⚡I love Minecraft server development.
-- 🌱I'm very passionate about my projects and what I work on. I hate sleeping knowing that there's something wrong within my code.
-- 📫Need help with something? Here's how you can contact me:
-  - 🗨️ [Discord](https://discord.com/users/320397746584551425)
-  - 🐦 [Twitter](https://twitter.com/phpPandaa)
-
-> Here are some other languages I can code in
-
-JavaScript:
- - 🪲 [Discord.js](https://github.com/discord/discordjs)
-
-Java:
-- 🤝 [Waterdog](https://docs.waterdog.dev)
-- 🤝 [WaterdogPE](https://docs.waterdog.dev)
-- 🤝 [Spigot/Bukkit/Java](https://www.spigotmc.org)
-
-Linux Stuffs:
-- ⌨️ [Pterodactyl Panel](https://pterodactyl.io)
-
-Projects I currently work on:
-- 🕹️ [Pixelated Studios](https://www.pixelatedstudios.xyz)
-- 🌋 [Skypixel Minigames](https://skypixelmc.xyz)
--  🧚[New Featured Server: Coming Soon](https://comingsoon.net)
+![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)
+<h1 align="center">Hi 👋, I'm Pandaa</h1>
+<h3 align="center">A passionate game developer that loves creating games and working on projects</h3>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jusztpandaa&label=Profile%20views&color=0e75b6&style=flat" alt="jusztpandaa" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jusztpandaa" alt="jusztpandaa" /></a> </p>
 
+- 💬 Ask me about **JavaScript, PHP, Java, Minecraft & Discord**
 
+- 📫 How to reach me @ **pandaa.dev** on discord
 
+- ⚡ Fun fact **I love working on cool projects and I’m a quick learner.**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jusztpandaa&show_icons=true&locale=en&layout=compact" alt="jusztpandaa" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jusztpandaa&show_icons=true&locale=en" alt="jusztpandaa" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JusztPandaa&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JusztPandaa&show_icons=true&theme=dracula)
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jusztpandaa&" alt="jusztpandaa" /></p>
